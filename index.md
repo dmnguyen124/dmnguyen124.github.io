@@ -15,4 +15,4 @@ This lab included a nested for-loop. I liked this lab because Diego was a great 
 
 This lab involved reading data from a file. I thought it was interesting because it revisited the states function from before, but this time we were able to implement it differently because of something new that we learned. Something that I remember from this lab is that we spent a stupidly long time trying to look for what was causing a logic error while debugging, only to have an "Oh, duh!" moment because it was a simple mistake. Imanol and I were able to laugh it off, and we finished pushing the code right as the class was over.
 
-![A very Kawaii picture of Mark Zuckerberg <3](images/meIRL.png)
+![A very Kawaii picture of Mark Zuckerberg <3](images/meIRL.jng)
